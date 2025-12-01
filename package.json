@@ -1,0 +1,33 @@
+{
+  "name": "virtualvogue-studio",
+  "version": "1.0.0",
+  "description": "A Telegram bot that uses AI to visualize dresses on virtual models",
+  "main": "src/bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/bot.js",
+    "dev": "node --watch src/bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "image-processing",
+    "fashion"
+  ],
+  "author": {
+    "name": "Hidayet Hidayetov",
+    "url": "https://hidayetov.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "form-data": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
