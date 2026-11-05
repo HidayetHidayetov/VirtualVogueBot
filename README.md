@@ -2,6 +2,8 @@
 
 A Telegram bot that uses AI to visualize dresses on virtual models. Send a photo of a dress, and the bot will transform it to show how it looks on a virtual model.
 
+**Author:** [Hidayət Hidayətov — hidayetov.com](https://hidayetov.com)
+
 ## Features
 
 - 📸 Receive dress photos from users via Telegram
